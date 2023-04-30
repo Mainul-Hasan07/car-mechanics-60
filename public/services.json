@@ -1,0 +1,38 @@
+
+[
+    {   
+        "id":1,
+       "name": "Replace in Tire",
+       "price": 2000,
+       "time": 2,
+       "img": "https://i.ibb.co/8MtDwrd/img-4.jpg"
+    },
+    {   
+        "id":2,
+       "name": "Engine repair",
+       "price": 3000,
+       "time": 5,
+       "img": "https://i.ibb.co/rp2mxkK/img-1.jpg"
+    },
+    {   
+        "id":3,
+       "name": "Engine change",
+       "price": 30000,
+       "time": 30,
+       "img": "https://i.ibb.co/S3K8R2h/img-2.jpg"
+    },
+    {   
+        "id":4,
+       "name": "mobile",
+       "price": 500,
+       "time": 10,
+       "img": "https://i.ibb.co/JtZkZWq/img-3.jpg"
+    },
+    {   
+        "id":5,
+       "name": "check up",
+       "price": 1500,
+       "time": 30,
+       "img": "https://i.ibb.co/NKFHpK1/img-5.jpg"
+    }
+ ]
